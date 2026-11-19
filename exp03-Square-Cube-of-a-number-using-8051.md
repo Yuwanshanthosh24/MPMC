@@ -31,7 +31,7 @@ END
 ```
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f6ea9c2-385e-4b64-918e-150d86c5892c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a84dfaff-1881-4801-8430-77ca05a3ad08" />
 
 
 
@@ -76,7 +76,7 @@ END
 
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3df6e3d2-2aa8-43bc-90fc-02e7604f3a85" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/507ceb55-89bc-4857-9ce9-2764e7206c79" />
 
 
 ## RESULT
